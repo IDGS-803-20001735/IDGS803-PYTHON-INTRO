@@ -2,4 +2,5 @@ x=5
 y=7
 z=x+y
 
-x=2
+def sumar():
+    print("sumar dos numeros")
